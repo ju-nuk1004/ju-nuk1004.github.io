@@ -4,44 +4,44 @@
 <div align="center">
 
   # minecraft datapack
-  [![Static Badge](https://img.shields.io/badge/varsion-v0.0.0-orange)](https://github.com/ju-nuk1004/datapack)
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)](https://www.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cotes2020/jekyll-theme-chirpy&amp;utm_campaign=Badge_Grade)
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
-  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
-  
+  ![Static Badge](https://img.shields.io/badge/varsion-v0.0.0-orange)
+  [![Static Badge](https://img.shields.io/badge/file-github-orange)](https://github.com/ju-nuk1004/datapack)
+  [![Static Badge](https://img.shields.io/badge/youtube-%EC%A3%BC%EB%8A%91-orange)](https://www.youtube.com/@_mr_7752)
+
   ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
 
 </div>
+
+<div align="center">
+
+  # minecraft map
+  ![Static Badge](https://img.shields.io/badge/varsion-v0.0.0-orange)
+  [![Static Badge](https://img.shields.io/badge/file-github-orange)](https://github.com/ju-nuk1004/datapack)
+  [![Static Badge](https://img.shields.io/badge/youtube-%EC%A3%BC%EB%8A%91-orange)](https://www.youtube.com/@_mr_7752)
+
+  ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
+
+</div>
+
 <div align="center">
 
   # minecraft resourcepack
-  ![Static Badge](https://img.shields.io/badge/test%2Ctestmasege)
+  ![Static Badge](https://img.shields.io/badge/varsion-v0.0.0-orange)
+  [![Static Badge](https://img.shields.io/badge/file-github-orange)](https://github.com/ju-nuk1004/datapack)
+  [![Static Badge](https://img.shields.io/badge/youtube-%EC%A3%BC%EB%8A%91-orange)](https://www.youtube.com/@_mr_7752)
 
-
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)](https://www.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cotes2020/jekyll-theme-chirpy&amp;utm_campaign=Badge_Grade)
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
-  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
-  <a href="https://capsule-render.vercel.app/">
-    <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
+  ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
 
 </div>
-</div>
+
 <div align="center">
 
   # mountain project
-  ![Static Badge](https://img.shields.io/badge/test%2Ctestmasege)
-
-
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)](https://www.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cotes2020/jekyll-theme-chirpy&amp;utm_campaign=Badge_Grade)
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
-  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
-  <a href="https://capsule-render.vercel.app/">
-    <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-
+  ![Static Badge](https://img.shields.io/badge/varsion-v0.0.0-orange)
+  [![Static Badge](https://img.shields.io/badge/file-github-orange)](https://github.com/ju-nuk1004/datapack)
+  [![Static Badge](https://img.shields.io/badge/youtube-%EC%A3%BC%EB%8A%91-orange)](https://www.youtube.com/@_gm_7387)
+  
+  ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
