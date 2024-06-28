@@ -36,3 +36,12 @@
   [![Static Badge](https://img.shields.io/badge/youtube-%ED%98%84%EC%83%9D%20%EC%A3%BC%EB%8A%91-orange)](https://www.youtube.com/@_gm_7387)
   
 </div>
+
+<div align="center">
+
+  # html blog
+  ![Static Badge](https://img.shields.io/badge/varsion-v0.0.0-orange)
+  [![Static Badge](https://img.shields.io/badge/file-github-orange)](https://github.com/ju-nuk1004/datapack)
+  [![Static Badge](https://img.shields.io/badge/youtube-%ED%98%84%EC%83%9D%20%EC%A3%BC%EB%8A%91-orange)](https://www.youtube.com/@_gm_7387)
+  
+</div>
