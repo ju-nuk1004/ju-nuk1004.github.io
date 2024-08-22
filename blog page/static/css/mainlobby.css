@@ -1,0 +1,280 @@
+*{
+    outline: 1px solid red;
+}
+/*font*/
+.h2{
+    font-size: 30px;
+}
+
+/*color and img*/
+.bodyColor{
+    background-color: black;
+}
+
+/*mainbady*/
+html{
+    height: 100%;
+}
+body{
+    min-height: 100%; 
+}
+.body{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+.bodyLine{
+    background-image: url("over_board.jpg");
+    background-size: cover;
+    width: 1600px;
+    height: 800px;
+    display: grid;
+    grid-template-columns: 50% 10% 40%;
+    grid-template-rows: 100%;
+    grid-template-areas: 
+    "computer trash bookcase";
+}
+
+/*trash*/
+.trash{
+    display: flex; 
+    justify-content: end;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.trashBox{
+    background-color: lightgray;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.trashBoxName {
+    font-weight: bold;
+    color: transparent;
+}
+.trashBox:hover{
+    outline: 5px solid blue;
+}
+.trashBox:hover ~ .trashBoxName {
+   color: blue;
+}
+.trashLine{
+    background-color: gray;
+    width: 5%;
+    height: 70%;
+    border-radius: 30%;
+}
+
+/* computer */
+.computer{
+    display: flex; 
+    justify-content: center;
+    align-items: end;
+}
+.mainDepartment{
+    width: 80%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 65% 35%;
+    grid-template-areas: 
+    "computerTV"
+    "table";
+}
+.table{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 10% 90%;
+    grid-template-areas: 
+    "tableBar"
+    "tableStick";
+}
+.tableBar{
+    background-image: url("brown wooden material.png");
+    background-size: cover;
+}
+.tableStick{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.stick{
+    width: 5%;
+    height: 100%;
+    background-image: url("brown wooden material.png");
+}
+.stickcover{
+    width: 5%;
+    height: 100%;
+}
+
+.computerTV{
+    display: flex;
+    justify-content:center;
+    align-items: end;
+}
+.moniter{
+    height: 40%;
+    width: 30%;
+}
+.monitercover{
+    width: 5%;
+    height: 100%;
+}
+.moniterGame{
+    display: flex; 
+    justify-content: end;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.moniterLongBar{
+    background-color: gray;
+    height: 5%;
+    width: 80%;
+}
+.moniterShotBar{
+    background-color: gray;
+    height: 10%;
+    width: 40%;
+}
+.moniterLine{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    height: 60%;
+    width: 100%;
+}
+.moniterNameBer{
+    height: 5%;
+    width: 100%;
+}
+.moniterName{
+    font-weight: bold;
+    color: transparent;
+}
+.moniterDisplay{
+    background-color: black;
+    height: 80%;
+    width: 90%;
+}
+.moniterStudy{
+    display: flex; 
+    justify-content: end;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.moniterGame:hover .moniterLongBar{
+    outline: 3px solid blue;
+}
+.moniterGame:hover .moniterShotBar{
+    outline: 3px solid blue;
+}
+.moniterGame:hover .moniterLine{
+    outline: 3px solid blue;
+}
+.moniterGame:hover .moniterName{
+    color: blue;
+}
+.moniterStudy:hover .moniterLongBar{
+    outline: 3px solid blue;
+}
+.moniterStudy:hover .moniterShotBar{
+    outline: 3px solid blue;
+}
+.moniterStudy:hover .moniterLine{
+    outline: 3px solid blue;
+}
+.moniterStudy:hover .moniterName{
+    color: blue;
+}
+
+/* bookcase */
+.bookroom{
+    display: flex; 
+    justify-content: end;
+    flex-direction: column;
+    align-items: center;
+}
+.bookcase{
+    background-image: url("brown wooden material.png");
+    height: 30%;
+    width: 55%;
+    display: flex; 
+    justify-content:center;
+    align-items: center;
+}
+.bookbox{
+    background-image: url("over_board.jpg");
+    height: 80%;
+    width: 90%;    
+    display: flex;
+    justify-content:start;
+    align-items: end;
+}
+.bookunder{
+    height: 3%;
+    width: 55%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.bookstick{
+    width: 5%;
+    height: 100%;
+    background-image: url("brown wooden material.png");
+}
+.book{
+    font-weight: bolder;
+    font-size: x-large;
+    width: 10%;
+    display: flex;
+    align-items: center;
+}
+.math{
+    color: white;
+    height: 70%;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    background-color: blue;
+}
+.toeic{
+    color: black;
+    height: 60%;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    background-color: red;
+}
+.coding{
+    color: black;
+    height: 80%;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    background-color: lime;
+}
+.design{
+    color: black;
+    height: 90%;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    background-color: orange;
+}
+.music{
+    color: black;
+    height: 70%;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    background-color: lightsteelblue;
+}
+
+.StudyName:hover .book{
+    outline: 3px solid blue;
+}
